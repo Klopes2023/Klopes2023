@@ -3,11 +3,11 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Cleaning and Exploratory Data Analysis</b>
-  - [Cleaning a dataset and exploring it to find insights](https://github.com/Klopes2023/URL)
+  - [Cleaning a dataset and exploring it to find insights](https://github.com/Klopes2023/DataCleaning-EDA)
 - <b>Logistic Regression Analysis</b>
-  - [Developing a Logistic Regression Model](https://github.com/Klopes2023/URL)
+  - [Developing a Logistic Regression Model](https://github.com/Klopes2023/LogisticRegression)
 - <b>K Nearest Neighbors Analysis</b>
-  - [Developing a KNN Model](https://github.com/Klopes2023/URL)
+  - [Developing a KNN Model](https://github.com/Klopes2023/KNN)
 
 
 <h2> 🤳 Connect with me:</h2>
