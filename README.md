@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hello, I'm Kyle!</h1>
+
+<h2>👨‍💻 Data Analyst Projects:</h2>
+
+- <b>Data Cleaning and Exploratory Data Analysis</b>
+  - [Cleaning a dataset and exploring it to find insights](https://github.com/Klopes2023/URL)
+- <b>Logistic Regression Analysis</b>
+  - [Developing a Logistic Regression Model](https://github.com/Klopes2023/URL)
+- <b>K Nearest Neighbors Analysis</b>
+  - [Developing a KNN Model](https://github.com/Klopes2023/URL)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: www.linkedin.com/in/kyle-lopes
 
 <!--
-**Klopes2023/Klopes2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
